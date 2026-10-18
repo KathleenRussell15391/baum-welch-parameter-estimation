@@ -1,6 +1,6 @@
 [project]
 name = "baum-welch-parameter-estimation"
-version = "0.1.1"
+version = "0.1.2"
 description = "Estimates the emission and transition probabilities of a hidden Markov model by the expectation-maximization algorithm."
 requires-python = ">=3.10"
 dependencies = []
